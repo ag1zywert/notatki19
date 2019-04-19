@@ -12,4 +12,4 @@
 
 ### 2. Notatki z neuropsychologii (wkrótce)
 
-[CHIRURGIA](Erytrofobia_prezka.Rmd)
+[CHIRURGIA](Erytrofobia prezka.Rmd)
