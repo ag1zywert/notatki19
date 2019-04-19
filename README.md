@@ -11,3 +11,5 @@
 #### Jego prezki w wersji notatkowej .pdf - [**TUTAJ**](Psych_muz.pdf)
 
 ### 2. Notatki z neuropsychologii (wkrótce)
+
+[CHIRURGIA](Erytrofobia_prezka.html)
