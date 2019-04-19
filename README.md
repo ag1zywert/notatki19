@@ -12,4 +12,3 @@
 
 ### 2. Notatki z neuropsychologii (wkrótce)
 
-[CHIRURGIA](Erytrofobia.Rmd)
