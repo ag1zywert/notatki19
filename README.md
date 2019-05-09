@@ -8,9 +8,10 @@
   * Czym jest obwiednia? [**TU TAJ**](https://drive.google.com/file/d/1r_cDYw5Ilp-JoWKGxKzzw4oY_Hj8vCFF/view?usp=sharing)
   * Metafora wysokości i lokalizacja [**Tu**](https://drive.google.com/file/d/1qulwKsZL9VwGxY47fygahyme_ctZGDb0/view?usp=sharing)
   
-  #### NEW ONE HERE
+#### NEW ONE HERE
   
   * Rytm i jego koledzy [**KLIK!!!**](https://drive.google.com/file/d/10yXSKJY4jG9TdSjLkptuTL_Ly1wydt2F/view?usp=sharing)
+  * Emołszyns [**KLIK**](https://drive.google.com/file/d/1Ly0WOaRWVb41eeqZbwnX5gXrQ4J_FUnr/view?usp=sharing)
 
 #### Jego prezki w wersji notatkowej .pdf - [**TUTAJ**](Psych_muz.pdf)
 
