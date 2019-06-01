@@ -19,3 +19,4 @@
 
 ### 2. Notatki z neuropsychologii (wkrótce)
 
+ * AFAZJE [**Tutaj są**](Afazje.html) a tutaj do [**pobrania pdf**](Afazje.pdf)
