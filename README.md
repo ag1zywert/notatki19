@@ -1,3 +1,16 @@
+ 
+ # IV ROK 
+ 
+ (sorry nie chce mi się tworzyć nowego repo :D)
+ 
+ #### PSYCHOSOMA
+
+1. Wstęp [**pdf**](wstep.pdf)
+2. Układ krążenia [**pdf**](u.krazenia.pdf)
+3. Układ oddechowy [**pdf**](u.oddechowy.pdf)
+4. Układ pokarmowy [**pdf**](u.pokarmowy.pdf)
+5. Układ hormonalny [**pdf**](u.hormonalny.pdf)
+
 # Pomoce naukowe dla III roku psychologii zdrowia
 
 ### 1. Psychologia muzyki - **video tutoriale**, czyli tłumaczenie z Krzycha na polski 
@@ -20,3 +33,4 @@
 ### 2. Notatki z neuropsychologii (wkrótce)
 
  * AFAZJE [**Tutaj są**](Afazje.html) a tutaj do [**pobrania pdf**](Afazje.pdf)
+
