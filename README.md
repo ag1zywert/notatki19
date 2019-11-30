@@ -3,7 +3,7 @@
  
  (sorry nie chce mi się tworzyć nowego repo :D)
  
- #### PSYCHOSOMA
+### PSYCHOSOMA
 
 1. Wstęp [**pdf**](wstep.pdf)
 2. Układ krążenia [**pdf**](u.krazenia.pdf)
