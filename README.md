@@ -12,7 +12,7 @@
 5. Układ hormonalny [**pdf**](u.hormonalny.pdf)
 6. Dermatologia [**pdf**](dermatologia.pdf)
 7. Transplantologia [**pdf**](Transplantologia.pdf)
-8. Nowotwory [**pdf**](Nowtwory.pdf)
+8. Nowotwory [**pdf**](Nowotwory.pdf)
 9. Ginekologia [**pdf**](Ginekologia.pdf)
 
 
