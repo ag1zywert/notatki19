@@ -11,7 +11,10 @@
 4. Układ pokarmowy [**pdf**](u.pokarmowy.pdf)
 5. Układ hormonalny [**pdf**](u.hormonalny.pdf)
 6. Dermatologia [**pdf**](dermatologia.pdf)
-7. Transplantologia [**pdf**](transplantologia.pdf)
+7. Transplantologia [**pdf**](Transplantologia.pdf)
+8. Nowotwory [**pdf**](Nowtwory.pdf)
+9. Ginekologia [**pdf**](Ginekologia.pdf)
+
 
 # Pomoce naukowe dla III roku psychologii zdrowia
 
